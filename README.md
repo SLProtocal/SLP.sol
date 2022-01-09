@@ -9,6 +9,7 @@ SL Protocal (SL) Token is a decentralized token built on (Binance Smart Chain) a
 
 💬 Telegram: https://t.me/SL_Protocal
 
+
 🔗 Buy SLProtocal on PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=
 
 🔗 BSC Contract: https://bscscan.com/address/
